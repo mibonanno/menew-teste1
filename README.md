@@ -1,4 +1,4 @@
-<img src="https://mvarandas.com.br/static/default/images/menew-bymv.pngg" width="200">
+<img src="https://mvarandas.com.br/static/default/images/menew-bymv.png" width="200">
 
 ## **TESTE PARA DESENVOLVEDOR (1)**
 
